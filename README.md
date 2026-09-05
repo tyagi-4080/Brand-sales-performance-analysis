@@ -8,7 +8,6 @@
 ---
 
 ### Dashboard Link: [2. https://app.powerbi.com/view?r=eyJrIjoiZWIxODg1MjMtY2VjYS00M2QyLWJkYzQtYzYxMWNjMTIxMjU2IiwidCI6IjJhYTJkZTVkLTllNTktNDhlOS04NzU1LTA3YzRiYWExNmEyMiJ9
-3. Insurance => https://github.com/tyagi-4080/Insurance-data-]
 
 ---
 
